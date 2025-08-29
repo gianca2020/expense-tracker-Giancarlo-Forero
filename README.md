@@ -1,11 +1,12 @@
 # Expense Tracker
 
 ## Overview
-[TODO: Write 2-3 sentences describing what your app does and why it's useful]
+[Expense tracker is a web app that allows students to be on top of thier own purchases]
 
 ## Problem Statement
 [TODO: Describe the problem your app solves. Consider:]
 - What frustrates people about tracking expenses?
+
 - Why do existing solutions fall short?
 - What specific pain points will you address?
 
